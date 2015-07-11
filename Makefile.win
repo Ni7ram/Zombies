@@ -1,0 +1,68 @@
+# Project: Zombies
+# Makefile created by Dev-C++ 5.3.0.3
+
+CPP      = g++.exe -D__DEBUG__
+CC       = gcc.exe -D__DEBUG__
+WINDRES  = windres.exe
+OBJ      = Bullet.o Character.o DrawObject.o Grid.o Helper.o Level.o main.o Player.o Pointer.o Timer.o Viewport.o Zombie.o ZombieRapido.o ZombieManager.o $(RES)
+LINKOBJ  = Bullet.o Character.o DrawObject.o Grid.o Helper.o Level.o main.o Player.o Pointer.o Timer.o Viewport.o Zombie.o ZombieRapido.o ZombieManager.o $(RES)
+LIBS     = -L"C:/Archivos de programa/Dev-Cpp/MinGW64/lib32" -L"%path%/MinGW64/x86_64-w64-mingw32/lib32" -L"%path%/lib" -L"C:/Archivos de programa/Dev-Cpp/lib" -static-libgcc -mwindows -lalleg  -m32 -g3
+INCS     = -I"C:/Archivos de programa/Dev-Cpp/MinGW64/include" -I"%path%/MinGW64/x86_64-w64-mingw32/include" -I"%path%/MinGW64/lib/gcc/x86_64-w64-mingw32/4.8.1/include"
+CXXINCS  = -I"C:/Archivos de programa/Dev-Cpp/MinGW64/include" -I"%path%/MinGW64/x86_64-w64-mingw32/include" -I"%path%/MinGW64/lib/gcc/x86_64-w64-mingw32/4.8.1/include" -I"%path%/MinGW64/lib/gcc/x86_64-w64-mingw32/4.8.1/include/c++" -I"%path%/include" -I"C:/Archivos de programa/Dev-Cpp/include"
+BIN      = Zombies.exe
+CXXFLAGS = $(CXXINCS)  -m32 -g3
+CFLAGS   = $(INCS)  -m32 -g3
+RM       = rm -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before $(BIN) all-after
+
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o $(BIN) $(LIBS)
+
+Bullet.o: Bullet.cpp
+	$(CPP) -c Bullet.cpp -o Bullet.o $(CXXFLAGS)
+
+Character.o: Character.cpp
+	$(CPP) -c Character.cpp -o Character.o $(CXXFLAGS)
+
+DrawObject.o: DrawObject.cpp
+	$(CPP) -c DrawObject.cpp -o DrawObject.o $(CXXFLAGS)
+
+Grid.o: Grid.cpp
+	$(CPP) -c Grid.cpp -o Grid.o $(CXXFLAGS)
+
+Helper.o: Helper.cpp
+	$(CPP) -c Helper.cpp -o Helper.o $(CXXFLAGS)
+
+Level.o: Level.cpp
+	$(CPP) -c Level.cpp -o Level.o $(CXXFLAGS)
+
+main.o: main.cpp
+	$(CPP) -c main.cpp -o main.o $(CXXFLAGS)
+
+Player.o: Player.cpp
+	$(CPP) -c Player.cpp -o Player.o $(CXXFLAGS)
+
+Pointer.o: Pointer.cpp
+	$(CPP) -c Pointer.cpp -o Pointer.o $(CXXFLAGS)
+
+Timer.o: Timer.cpp
+	$(CPP) -c Timer.cpp -o Timer.o $(CXXFLAGS)
+
+Viewport.o: Viewport.cpp
+	$(CPP) -c Viewport.cpp -o Viewport.o $(CXXFLAGS)
+
+Zombie.o: Zombie.cpp
+	$(CPP) -c Zombie.cpp -o Zombie.o $(CXXFLAGS)
+
+ZombieRapido.o: ZombieRapido.cpp
+	$(CPP) -c ZombieRapido.cpp -o ZombieRapido.o $(CXXFLAGS)
+
+ZombieManager.o: ZombieManager.cpp
+	$(CPP) -c ZombieManager.cpp -o ZombieManager.o $(CXXFLAGS)
