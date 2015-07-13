@@ -54,22 +54,22 @@ void Grid::draw(BITMAP *dest){
             if (discoMode){
             	float _x = correctedX + margin + (i * (cellSize + cellsSeparation));
             	float _y = correctedY + margin + (j * (cellSize + cellsSeparation));
-			    rectfill(dest, _x, _y, _x + cellSize, _y + cellSize, makecol(25 + cellsArray[i][j], 25 + cellsArray[i][j], 35 + cellsArray[i][j]));
+			    rectfill(dest, (int)_x, (int)_y, (int)(_x + cellSize), (int)(_y + cellSize), makecol(25 + cellsArray[i][j], 25 + cellsArray[i][j], 35 + cellsArray[i][j]));
 			    //DISCO EFFECT DECAY
           	    if (cellsArray[i][j]>0) cellsArray[i][j] -= discoFadeRatio;
 			}else{
          	   rectfill(dest, 
-	                    correctedX + i * cellSize + margin, 
-		                correctedY + j * cellSize + margin, 
-						correctedX + i * cellSize + cellsSeparation, 
-						correctedY + j * cellSize + cellsSeparation, 
+	                    (int)(correctedX + i * cellSize + margin), 
+		                (int)(correctedY + j * cellSize + margin), 
+						(int)(correctedX + i * cellSize + cellsSeparation), 
+						(int)(correctedY + j * cellSize + cellsSeparation), 
 						makecol(15,15,30));
 			}
         }
 	}
 	
 	//BORDER
-	rect(dest, correctedX, correctedY, correctedX + gridSize, correctedY + gridSize, makecol(180,180,255));
+	rect(dest, (int)correctedX, (int)correctedY, (int)(correctedX + gridSize), (int)(correctedY + gridSize), makecol(180,180,255));
 };
 
 void Grid::highlight(int x, int y){

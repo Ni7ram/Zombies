@@ -2,7 +2,7 @@
 FileName=Zombies.dev
 Name=Zombies
 Type=0
-Ver=2
+Ver=1
 ObjFiles=
 Includes=
 Libs=
@@ -11,7 +11,7 @@ ResourceIncludes=
 MakeIncludes=
 Compiler=
 CppCompiler=
-Linker=-lalleg_@@_
+Linker=_@@_../../../../../../Dev-Cpp/lib/liballegro-4.4.2-mt.a_@@_
 IsCpp=1
 Icon=
 ExeOutput=
@@ -27,8 +27,8 @@ CommandLine=
 Folders=
 IncludeVersionInfo=0
 SupportXPThemes=0
-CompilerSet=3
-CompilerSettings=0000000100000000001000000
+CompilerSet=0
+CompilerSettings=0000000100000000001000
 UnitCount=27
 
 [VersionInfo]
