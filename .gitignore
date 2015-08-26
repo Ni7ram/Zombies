@@ -1,3 +1,5 @@
 *.o
 *.layout
 Zombies.exe
+Zombies.layout
+Makefile.win
