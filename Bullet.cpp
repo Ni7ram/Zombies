@@ -22,7 +22,7 @@ void Bullet::drawShadow() const{
 	double correctedY = Y - CAMERA->getY();
 	
 	//GRAPHIC
-    circlefill(CANVAS, (int)correctedX+8, (int)correctedY+8, size-2, makecol(0,0,20));
+    circlefill(CANVAS, (int)correctedX+8, (int)correctedY+8, size+6, makecol(0,0,20));
 };
 
 void Bullet::draw() const{
