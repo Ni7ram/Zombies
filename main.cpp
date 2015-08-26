@@ -8,8 +8,8 @@
 
 #include <allegro.h>
 
-static const int WINDOW_WIDTH  = 800;
-static const int WINDOW_HEIGHT = 600;
+static const int WINDOW_WIDTH  = 1024;
+static const int WINDOW_HEIGHT = 768;
 static const bool FULLSCREEN   = false; //comentario 123
 
 //MAIN LEVEL
