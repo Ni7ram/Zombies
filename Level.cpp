@@ -107,7 +107,7 @@ void Level::updateGame(){
     }
     
     //DISCO FLOOR
-    grid->highlight((int)player->getX(),(int)player->getY());
+    grid->highlight(player->getX(),player->getY());
     grid->draw(buffer);
         
     //DRAW SHADOWS

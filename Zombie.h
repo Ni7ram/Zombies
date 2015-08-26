@@ -20,7 +20,7 @@ class Zombie : public Character{
     protected:
     	//STATIC PROPERTIES
 	    static const int size = 20;	    
-        double vel ;
+        double vel = 2;
         
         //FUNCTIONS
 		bool legalMovement(float &X, float &Y) const;
