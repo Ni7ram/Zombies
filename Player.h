@@ -24,7 +24,7 @@ class Player : public Character{
     	void updateInercia();
 	    
 	    //VARS
-		int currentAmmo;
+		int currentAmmo = 0;
 };
 
 #endif //__PLAYER

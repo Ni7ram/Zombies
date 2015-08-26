@@ -5,7 +5,7 @@
 
 class ZombieRapido : public Zombie{
 	public: 
-		ZombieRapido(double x, double y);
+		ZombieRapido(double x, double y); //_
 		~ZombieRapido();
 		
 		//FUNCTIONS
