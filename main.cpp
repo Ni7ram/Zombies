@@ -10,7 +10,7 @@
 
 static const int WINDOW_WIDTH  = 800;
 static const int WINDOW_HEIGHT = 600;
-static const bool FULLSCREEN   = true;
+static const bool FULLSCREEN   = false; //comentario 123
 
 //MAIN LEVEL
 #include "Level.h"

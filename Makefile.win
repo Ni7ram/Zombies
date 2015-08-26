@@ -1,23 +1,22 @@
 # Project: Zombies
-# Makefile created by Dev-C++ 5.3.0.3
+# Makefile created by Dev-C++ 5.10
 
 CPP      = g++.exe -D__DEBUG__
 CC       = gcc.exe -D__DEBUG__
 WINDRES  = windres.exe
-OBJ      = Bullet.o Character.o DrawObject.o Grid.o Helper.o Level.o main.o Player.o Pointer.o Timer.o Viewport.o Zombie.o ZombieRapido.o ZombieManager.o $(RES)
-LINKOBJ  = Bullet.o Character.o DrawObject.o Grid.o Helper.o Level.o main.o Player.o Pointer.o Timer.o Viewport.o Zombie.o ZombieRapido.o ZombieManager.o $(RES)
-LIBS     = -L"C:/Archivos de programa/Dev-Cpp/MinGW64/lib32" -L"%path%/MinGW64/x86_64-w64-mingw32/lib32" -L"%path%/lib" -L"C:/Archivos de programa/Dev-Cpp/lib" -L"C:/Archivos de programa/Dev-Cpp/include/allegro" -static-libgcc -mwindows -lalleg  -m32 -g3
-INCS     = -I"C:/Archivos de programa/Dev-Cpp/MinGW64/include" -I"%path%/MinGW64/x86_64-w64-mingw32/include" -I"%path%/MinGW64/lib/gcc/x86_64-w64-mingw32/4.8.1/include"
-CXXINCS  = -I"C:/Archivos de programa/Dev-Cpp/MinGW64/include" -I"%path%/MinGW64/x86_64-w64-mingw32/include" -I"%path%/MinGW64/lib/gcc/x86_64-w64-mingw32/4.8.1/include" -I"%path%/MinGW64/lib/gcc/x86_64-w64-mingw32/4.8.1/include/c++" -I"%path%/include" -I"C:/Archivos de programa/Dev-Cpp/include"
+OBJ      = Bullet.o Character.o DrawObject.o Grid.o Helper.o Level.o main.o Player.o Pointer.o Timer.o Viewport.o Zombie.o ZombieRapido.o ZombieManager.o
+LINKOBJ  = Bullet.o Character.o DrawObject.o Grid.o Helper.o Level.o main.o Player.o Pointer.o Timer.o Viewport.o Zombie.o ZombieRapido.o ZombieManager.o
+LIBS     = -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib32" -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib32" -L"C:/Dev-Cpp/include" -L"C:/Dev-Cpp/bin" -L"C:/Dev-Cpp/lib" -L"C:/Dev-Cpp/Packages" -static-libgcc -mwindows -lalleg -m32 -g3
+INCS     = -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.8.1/include" -I"C:/Dev-Cpp/include" -I"C:/Dev-Cpp/bin" -I"C:/Dev-Cpp/lib" -I"C:/Dev-Cpp/Packages"
+CXXINCS  = -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.8.1/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.8.1/include/c++" -I"C:/Dev-Cpp/include" -I"C:/Dev-Cpp/bin" -I"C:/Dev-Cpp/lib" -I"C:/Dev-Cpp/Packages"
 BIN      = Zombies.exe
-CXXFLAGS = $(CXXINCS)  -m32 -g3
-CFLAGS   = $(INCS)  -m32 -g3
-RM       = rm -f
+CXXFLAGS = $(CXXINCS) -m32 -g3
+CFLAGS   = $(INCS) -m32 -g3
+RM       = rm.exe -f
 
 .PHONY: all all-before all-after clean clean-custom
 
 all: all-before $(BIN) all-after
-
 
 clean: clean-custom
 	${RM} $(OBJ) $(BIN)
