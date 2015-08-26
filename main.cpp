@@ -14,7 +14,7 @@ static const bool FULLSCREEN   = false; //comentario 123
 
 //MAIN LEVEL
 #include "Level.h"
-Level level0(WINDOW_WIDTH/3, WINDOW_HEIGHT/2);
+Level level0(WINDOW_WIDTH/1, WINDOW_HEIGHT/3);
 
 //SOME CLASS INITIALIZATIONS
 BITMAP* DrawObject::CANVAS;
