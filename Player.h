@@ -18,7 +18,7 @@ class Player : public Character{
 	protected:		
 		//STATIC PROPERTIES
 		static const float inerciaSpeedLimit = 6;
-	    static const int size = 15;
+	    static const int size = 35;
 	    
 	    //FUNCTIONS
     	void updateInercia();
