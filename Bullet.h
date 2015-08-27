@@ -30,7 +30,7 @@ class Bullet : public DrawObject{
         void calcPos();        
         
         //STATICS PROPERTIES
-        static const int vel = 14;
+        static const int vel = 15;
    	    static const int size = 6;
         
         //VARS
