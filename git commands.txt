@@ -1,0 +1,9 @@
+clic derecho -> git bash
+
+git status
+
+git commit -a
+
+(comentario loco)
+
+git push

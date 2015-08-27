@@ -1,0 +1,972 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/E/Trabajo/LolaMovil/js/jquery.parallax.js",
+			"settings":
+			{
+				"buffer_size": 1770,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/E/Trabajo/LolaMovil/21 Mobile _ SMS Corporativo _ SMS Marketing.htm",
+			"settings":
+			{
+				"buffer_size": 5838,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/Trabajo/LolaMovil/navbar.html",
+			"settings":
+			{
+				"buffer_size": 2300,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/Trabajo/LolaMovil/galeria.html",
+			"settings":
+			{
+				"buffer_size": 1012,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/Trabajo/LolaMovil/contacto.html",
+			"settings":
+			{
+				"buffer_size": 5136,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/Trabajo/LolaMovil/experimenta.html",
+			"settings":
+			{
+				"buffer_size": 2570,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/Trabajo/LolaMovil/como_funciona.html",
+			"settings":
+			{
+				"buffer_size": 2504,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/Trabajo/LolaMovil/servicios.html",
+			"settings":
+			{
+				"buffer_size": 2361,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/Trabajo/LolaMovil/content.html",
+			"settings":
+			{
+				"buffer_size": 16228,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/Trabajo/LolaMovil/21 Mobile _ SMS Corporativo _ SMS Marketing_archivos/main.js",
+			"settings":
+			{
+				"buffer_size": 3987,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/Trabajo/LolaMovil/21 Mobile _ SMS Corporativo _ SMS Marketing_archivos/owl.css",
+			"settings":
+			{
+				"buffer_size": 1662,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/Trabajo/LolaMovil/21 Mobile _ SMS Corporativo _ SMS Marketing_archivos/owl_002.css",
+			"settings":
+			{
+				"buffer_size": 1476,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/E/Trabajo/LolaMovil/21 Mobile _ SMS Corporativo _ SMS Marketing_archivos/bootstrap.css",
+			"settings":
+			{
+				"buffer_size": 123861,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/Trabajo/LolaMovil/21 Mobile _ SMS Corporativo _ SMS Marketing_archivos/style.css",
+			"settings":
+			{
+				"buffer_size": 33464,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/Trabajo/LolaMovil/21 Mobile _ SMS Corporativo _ SMS Marketing_archivos/custom.css",
+			"settings":
+			{
+				"buffer_size": 16294,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/E/Trabajo/LolaMovil/21 Mobile _ SMS Corporativo _ SMS Marketing_archivos/supersized.css",
+			"settings":
+			{
+				"buffer_size": 1542,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/Trabajo/LolaMovil/21 Mobile _ SMS Corporativo _ SMS Marketing_archivos/animate.css",
+			"settings":
+			{
+				"buffer_size": 57425,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/Trabajo/LolaMovil/21 Mobile _ SMS Corporativo _ SMS Marketing_archivos/settings.css",
+			"settings":
+			{
+				"buffer_size": 36534,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/Trabajo/LolaMovil/21 Mobile _ SMS Corporativo _ SMS Marketing_archivos/font-awesome.css",
+			"settings":
+			{
+				"buffer_size": 17780,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/nolocreo.sublime-build",
+	"command_palette":
+	{
+		"height": 72.0,
+		"selected_items":
+		[
+			[
+				"Package Control: istall",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			],
+			[
+				"",
+				"Snippet: switch"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 332.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Documents and Settings/Administrador/Escritorio/21 Mobile _ SMS Corporativo _ SMS Marketing2.htm",
+		"/D/Downloads/bootstrap-3.3.5-dist/bootstrap-3.3.5-dist/css/bootstrap.css",
+		"/C/Documents and Settings/Administrador/Escritorio/web loca/Nueva pestaña.xul",
+		"/C/Documents and Settings/Administrador/Escritorio/Hand y Latas/Hand (todo)/Hand/src/as/enemy.as",
+		"/C/xampp/htdocs/test/test.php",
+		"/C/xampp/htdocs/index.php",
+		"/C/xampp/htdocs/cakeblog/app/Config/database.php",
+		"/C/xampp/htdocs/cakeblog/app/Model/AppModel.php",
+		"/C/xampp/htdocs/cakeblog/app/Controller/AppController.php",
+		"/C/xampp/htdocs/cakeblog/app/Controller/PagesController.php",
+		"/E/Trabajo/its/its/its.js",
+		"/E/Trabajo/LolaMovil/js/jquery.parallax.js",
+		"/C/Documents and Settings/Administrador/Escritorio/leechblock",
+		"/C/xampp/htdocs/test/sqlquerys.txt",
+		"/C/xampp/htdocs/test/index.html",
+		"/E/Trabajo/LolaMovil/21 Mobile _ SMS Corporativo _ SMS Marketing_archivos/jquery_005.js",
+		"/E/Trabajo/LolaMovil/21 Mobile _ SMS Corporativo _ SMS Marketing_archivos/bootstrap.css",
+		"/E/Trabajo/LolaMovil/21 Mobile _ SMS Corporativo _ SMS Marketing_archivos/owl.js",
+		"/C/xampp/htdocs/VOTAR/header.html",
+		"/C/xampp/htdocs/VOTAR/footer.html",
+		"/C/xampp/htdocs/VOTAR/body.php",
+		"/C/xampp/htdocs/VOTAR/index.php",
+		"/C/Documents and Settings/Administrador/Escritorio/Zombies/Pointer.cpp",
+		"/C/Documents and Settings/Administrador/Escritorio/Zombies/ZombieRapido.cpp",
+		"/C/Documents and Settings/Administrador/Escritorio/Zombies/Helper.h",
+		"/C/Documents and Settings/Administrador/Escritorio/Zombies/Timer.h",
+		"/C/Documents and Settings/Administrador/Datos de programa/Sublime Text 2/Packages/User/nolocreo.sublime-build",
+		"/C/Documents and Settings/Administrador/Escritorio/Zombies/ZombieRapido.h",
+		"/C/Documents and Settings/Administrador/Escritorio/Zombies/Pointer.h",
+		"/C/Documents and Settings/Administrador/Escritorio/Zombies/Level.cpp",
+		"/C/Documents and Settings/Administrador/Escritorio/Zombies/main.cpp",
+		"/C/Documents and Settings/Administrador/Escritorio/Hand y Latas/Latas/Resources/FLA/Lata.fla",
+		"/C/Documents and Settings/Administrador/Escritorio/Hand y Latas/Latas/Resources/FLA/clases/Escopeta.as",
+		"/C/Documents and Settings/Administrador/Escritorio/Hand y Latas/Latas/Clases/Config.as",
+		"/C/Documents and Settings/Administrador/Escritorio/Hand y Latas/Latas/Clases/latas.as",
+		"/C/Documents and Settings/Administrador/Mis documentos/Dropbox/Public/Public/Latas/latas.html",
+		"/C/Documents and Settings/Administrador/Escritorio/Hand y Latas/Latas/Clases/myObject.as",
+		"/C/MinGW/include/stdlib.h",
+		"/C/Documents and Settings/Administrador/Escritorio/Zombies/Grid.cpp",
+		"/C/Documents and Settings/Administrador/Escritorio/Zombies/Player.cpp",
+		"/C/Documents and Settings/Administrador/Escritorio/Zombies/Helper.cpp",
+		"/C/Documents and Settings/Administrador/Datos de programa/Sublime Text 2/Packages/User/yafuetodo.sublime-build",
+		"/C/Documents and Settings/Administrador/Escritorio/Zombies/Zombie.cpp",
+		"/C/Documents and Settings/Administrador/Escritorio/Zombies/Bullet.cpp",
+		"/C/Documents and Settings/Administrador/Escritorio/Zombies/Character.cpp",
+		"/C/Documents and Settings/Administrador/Escritorio/Zombies/DrawObject.cpp",
+		"/C/Documents and Settings/Administrador/Escritorio/Zombies/Level.h",
+		"/C/Documents and Settings/Administrador/Escritorio/Zombies/Bullet.h",
+		"/C/Documents and Settings/Administrador/Escritorio/Zombies/DrawObject.h",
+		"/C/Documents and Settings/Administrador/Escritorio/Zombies/Viewport.cpp",
+		"/C/Documents and Settings/Administrador/Escritorio/Zombies/Character.h",
+		"/C/Documents and Settings/Administrador/Escritorio/Zombies/Grid.h",
+		"/C/Documents and Settings/Administrador/Escritorio/Zombies/Zombie.h",
+		"/C/Documents and Settings/Administrador/Escritorio/Zombies/Viewport.h",
+		"/C/Documents and Settings/Administrador/Escritorio/Zombies/Player.h",
+		"/C/Documents and Settings/Administrador/Escritorio/Zombies/Timer.cpp",
+		"/C/Documents and Settings/Administrador/Escritorio/Zombies/hola.sublime-workspace",
+		"/C/Documents and Settings/Administrador/Escritorio/Zombies/Simulador_private.h",
+		"/C/Documents and Settings/Administrador/Escritorio/Zombies/Zombies.sublime-workspace",
+		"/C/Documents and Settings/Administrador/Escritorio/Zombies/Zombies.sublime-project",
+		"/C/MinGW/main.cpp",
+		"/C/Documents and Settings/Administrador/Escritorio/Zombies/Zbomies.sublime-workspace",
+		"/C/Documents and Settings/Administrador/Escritorio/Zombies/Zbomies.sublime-project",
+		"/C/Documents and Settings/Administrador/Escritorio/Zombies/ZOMBIES.sublime-project",
+		"/C/Documents and Settings/Administrador/Datos de programa/Sublime Text 2/Packages/User/untitled.sublime-build",
+		"/C/Documents and Settings/Administrador/Escritorio/hola.cpp",
+		"/C/Dev-Cpp/include/allegro/internal/alconfig.h",
+		"/C/Dev-Cpp/include/allegro.h",
+		"/C/Documents and Settings/Administrador/Datos de programa/Sublime Text 2/Packages/User/internet.sublime-build",
+		"/C/Dev-Cpp/include/allegro/platform/alplatf.h",
+		"/C/Dev-Cpp/include/allegro/base.h",
+		"/C/Documents and Settings/Administrador/Datos de programa/Sublime Text 2/Packages/User/conchadelmono.sublime-build",
+		"/C/Documents and Settings/Administrador/Escritorio/Zombies/allegro/internal/alconfig.h",
+		"/C/cygnus/cygwin-b20/include/allegro/platform/astdint.h",
+		"/C/Documents and Settings/Administrador/Escritorio/Zombies/include/allegro/internal/alconfig.h",
+		"/C/Documents and Settings/Administrador/Datos de programa/Sublime Text 2/Packages/User/averga.sublime-build",
+		"/C/Documents and Settings/Administrador/Datos de programa/Sublime Text 2/Packages/User/C++deinternet.json",
+		"/C/Documents and Settings/Administrador/Escritorio/c++.cpp",
+		"/C/Documents and Settings/Administrador/Escritorio/c++",
+		"/C/Documents and Settings/Administrador/Escritorio/Preguntas frecuentes hongos.docx",
+		"/C/Documents and Settings/Administrador/Datos de programa/Sublime Text 2/Packages/User/c++mio.json",
+		"/C/Documents and Settings/Administrador/Escritorio/Programación/Clases blan/programa que evalua si es mayor o menor/main.cpp",
+		"/C/Documents and Settings/Administrador/Escritorio/Programación/Clases blan/programa que suma y resta/main.cpp",
+		"/C/Documents and Settings/Administrador/Escritorio/Programación/yanina/main.cpp",
+		"/C/Documents and Settings/Administrador/Escritorio/Ni7ram/procas.html",
+		"/C/Documents and Settings/Administrador/Mis documentos/JCreator Pro/MyProjects/mainJuego/src/juego/Personaje.java",
+		"/C/Documents and Settings/Administrador/Escritorio/Leídos.txt",
+		"/C/Documents and Settings/Administrador/Mis documentos/JCreator Pro/MyProjects/mainJuego/src/juego/main.java",
+		"/C/Archivos de programa/Java/jdk1.7.0_51/lib/juego/main.java",
+		"/C/Archivos de programa/Java/jdk1.7.0_51/lib/juego/Personaje.java",
+		"/C/Documents and Settings/Administrador/Mis documentos/JCreator Pro/MyProjects/mainJuego/src/juego/  symbol",
+		"/C/Documents and Settings/Administrador/Datos de programa/Sublime Text 2/Packages/User/miJava.json",
+		"/C/Documents and Settings/Administrador/Datos de programa/Sublime Text 2/Packages/Java/miJava.sublime-build",
+		"/C/Documents and Settings/Administrador/Mis documentos/JCreator Pro/MyProjects/mainJuego/src/juego/  location",
+		"/C/Documents and Settings/Administrador/Escritorio/main.java"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"try",
+			"tr",
+			"grain",
+			"services",
+			"ul img",
+			"body",
+			"logo",
+			"line-sep-2",
+			"fliper",
+			"col-md-4",
+			"img-responsive",
+			"btn",
+			"enviar",
+			"eviar",
+			"GRAIN",
+			"grain",
+			"grid",
+			"navbar",
+			"brand",
+			"navbar-collapse",
+			"navbar-fixed-top",
+			"body",
+			"img_menu",
+			"contact",
+			"c",
+			"flip",
+			"logo",
+			"info",
+			"produ",
+			"envio de sms ",
+			"nav",
+			"navbar",
+			"nossa pla",
+			"faq",
+			"envío de sms corpor",
+			"env",
+			");\n",
+			"internal",
+			";\n",
+			"Habilidad"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/E/Trabajo/LolaMovil/js/jquery.parallax.js",
+					"settings":
+					{
+						"buffer_size": 1770,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/E/Trabajo/LolaMovil/21 Mobile _ SMS Corporativo _ SMS Marketing.htm",
+					"settings":
+					{
+						"buffer_size": 5838,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2811,
+								2811
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 624.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/E/Trabajo/LolaMovil/navbar.html",
+					"settings":
+					{
+						"buffer_size": 2300,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2300,
+								2300
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 53.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/E/Trabajo/LolaMovil/galeria.html",
+					"settings":
+					{
+						"buffer_size": 1012,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1012,
+								1012
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/E/Trabajo/LolaMovil/contacto.html",
+					"settings":
+					{
+						"buffer_size": 5136,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5136,
+								5136
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 645.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/E/Trabajo/LolaMovil/experimenta.html",
+					"settings":
+					{
+						"buffer_size": 2570,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2570,
+								2570
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 21.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/E/Trabajo/LolaMovil/como_funciona.html",
+					"settings":
+					{
+						"buffer_size": 2504,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2504,
+								2504
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 37.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/E/Trabajo/LolaMovil/servicios.html",
+					"settings":
+					{
+						"buffer_size": 2361,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2361,
+								2361
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/E/Trabajo/LolaMovil/content.html",
+					"settings":
+					{
+						"buffer_size": 16228,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								972,
+								972
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/E/Trabajo/LolaMovil/21 Mobile _ SMS Corporativo _ SMS Marketing_archivos/main.js",
+					"settings":
+					{
+						"buffer_size": 3987,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2879,
+								2879
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1680.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/E/Trabajo/LolaMovil/21 Mobile _ SMS Corporativo _ SMS Marketing_archivos/owl.css",
+					"settings":
+					{
+						"buffer_size": 1662,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1634,
+								1635
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 922.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/E/Trabajo/LolaMovil/21 Mobile _ SMS Corporativo _ SMS Marketing_archivos/owl_002.css",
+					"settings":
+					{
+						"buffer_size": 1476,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/E/Trabajo/LolaMovil/21 Mobile _ SMS Corporativo _ SMS Marketing_archivos/bootstrap.css",
+					"settings":
+					{
+						"buffer_size": 123861,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								30726,
+								30726
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 31714.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/E/Trabajo/LolaMovil/21 Mobile _ SMS Corporativo _ SMS Marketing_archivos/style.css",
+					"settings":
+					{
+						"buffer_size": 33464,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7514,
+								7516
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 6090.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/E/Trabajo/LolaMovil/21 Mobile _ SMS Corporativo _ SMS Marketing_archivos/custom.css",
+					"settings":
+					{
+						"buffer_size": 16294,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8461,
+								8461
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 8314.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "/E/Trabajo/LolaMovil/21 Mobile _ SMS Corporativo _ SMS Marketing_archivos/supersized.css",
+					"settings":
+					{
+						"buffer_size": 1542,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2,
+								2
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "/E/Trabajo/LolaMovil/21 Mobile _ SMS Corporativo _ SMS Marketing_archivos/animate.css",
+					"settings":
+					{
+						"buffer_size": 57425,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								21321,
+								21332
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 17827.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "/E/Trabajo/LolaMovil/21 Mobile _ SMS Corporativo _ SMS Marketing_archivos/settings.css",
+					"settings":
+					{
+						"buffer_size": 36534,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "/E/Trabajo/LolaMovil/21 Mobile _ SMS Corporativo _ SMS Marketing_archivos/font-awesome.css",
+					"settings":
+					{
+						"buffer_size": 17780,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.clang":
+	{
+		"height": 55.0
+	},
+	"output.exec":
+	{
+		"height": 355.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 86.0,
+	"status_bar_visible": true
+}
