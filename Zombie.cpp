@@ -11,12 +11,12 @@ Zombie::Zombie(double x, double y) : Character(x,y), wasted(false){
 		b = tone;
 
 		vel = 2;
-	}else{
-		tone = rand()%90;
+	}else if(zombietype == 1){
+		tone = rand()%120; //ex 90
 		g = tone;
 		b = tone;
 		    
-		l = 4;
+		vel = 6; //ex 4
 	}
     
     animState = 0; //0 = SPAWN, 1 = NORMAL
