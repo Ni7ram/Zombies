@@ -25,7 +25,7 @@ class Level{
 		
 	protected:
 		//STATIC PROPERTIES
-    	static const int stageSize = 2000;
+    	static const int stageSize = 1500;
 		
 		//FUNCTIONS
 		void drawGUI();
