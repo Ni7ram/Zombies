@@ -19,7 +19,8 @@ class Zombie : public Character{
 
     protected:
     	//STATIC PROPERTIES
-	    static const int size = 20;	    
+	    static const int size = 20;
+		int zombietype = 0; //0: basic zombie, 1: testing	    
         double vel = 2;
         
         //FUNCTIONS
@@ -34,7 +35,7 @@ class Zombie : public Character{
         
     	int tone;
     	int r;
-    	static const int g = 150;
+    	int g = 150;
     	int b;
 };
 

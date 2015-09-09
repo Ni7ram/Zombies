@@ -3,11 +3,24 @@
 
 Zombie::Zombie(double x, double y) : Character(x,y), wasted(false){
     DrawObject::size = size;
-	tone = rand()%90;
-    r = tone;
-    b = tone;
     
-    vel = 2;
+    zombietype=rand()%2;
+    
+    if (zombietype == 0){
+    		tone = rand()%90;
+		    r = tone;
+		    b = tone;
+		    
+		    vel = 2;
+	}else{
+		    tone = rand()%90;
+		    g = tone;
+		    b = tone;
+		    
+		    vel = 4;
+	}
+
+    
     
     animState = 0; //0 = SPAWN, 1 = NORMAL
     animSpawn();

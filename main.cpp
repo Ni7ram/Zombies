@@ -8,13 +8,13 @@
 
 #include <allegro.h>
 
-static const int WINDOW_WIDTH  = 640;
-static const int WINDOW_HEIGHT = 480;
-static const bool FULLSCREEN   = false; //comentario 123
+static const int WINDOW_WIDTH  = 800;
+static const int WINDOW_HEIGHT = 600;
+static const bool FULLSCREEN   = false; //
 
 //MAIN LEVEL
 #include "Level.h"
-Level level0(WINDOW_WIDTH/1, WINDOW_HEIGHT/1);
+Level level0(WINDOW_WIDTH, WINDOW_HEIGHT);
 
 //SOME CLASS INITIALIZATIONS
 BITMAP* DrawObject::CANVAS;
