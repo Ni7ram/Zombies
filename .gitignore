@@ -5,3 +5,4 @@ Zombies.layout
 Makefile.win
 *.exe
 *.layout
+*.exe
